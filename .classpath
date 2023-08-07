@@ -7,5 +7,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/usuario/Documents/oracle ONE/conversor-de-monedas/lib/json-20220320.jar"/>
+	<classpathentry kind="lib" path="lib/customComboBox.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
